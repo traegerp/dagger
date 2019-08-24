@@ -1,0 +1,9 @@
+/Users/test/Desktop/dagger/Dagger.Scripting/bin/Debug/netstandard2.0/Dagger.Scripting.deps.json
+/Users/test/Desktop/dagger/Dagger.Scripting/bin/Debug/netstandard2.0/Dagger.Scripting.dll
+/Users/test/Desktop/dagger/Dagger.Scripting/bin/Debug/netstandard2.0/Dagger.Scripting.pdb
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.csprojAssemblyReference.cache
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.AssemblyInfoInputs.cache
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.AssemblyInfo.cs
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.dll
+/Users/test/Desktop/dagger/Dagger.Scripting/obj/Debug/netstandard2.0/Dagger.Scripting.pdb

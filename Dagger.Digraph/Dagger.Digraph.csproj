@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dagger.Data\Dagger.Data.csproj" />
+    <ProjectReference Include="..\Dagger.Domain\Dagger.Domain.csproj" />
+    <ProjectReference Include="..\Dagger.Scripting\Dagger.Scripting.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

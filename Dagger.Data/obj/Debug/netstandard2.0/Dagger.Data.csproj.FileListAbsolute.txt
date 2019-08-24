@@ -1,0 +1,12 @@
+/Users/test/Desktop/dagger/Dagger.Data/bin/Debug/netstandard2.0/Dagger.Data.deps.json
+/Users/test/Desktop/dagger/Dagger.Data/bin/Debug/netstandard2.0/Dagger.Data.dll
+/Users/test/Desktop/dagger/Dagger.Data/bin/Debug/netstandard2.0/Dagger.Data.pdb
+/Users/test/Desktop/dagger/Dagger.Data/bin/Debug/netstandard2.0/Dagger.Domain.dll
+/Users/test/Desktop/dagger/Dagger.Data/bin/Debug/netstandard2.0/Dagger.Domain.pdb
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.csprojAssemblyReference.cache
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.AssemblyInfoInputs.cache
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.AssemblyInfo.cs
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.csproj.CopyComplete
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.dll
+/Users/test/Desktop/dagger/Dagger.Data/obj/Debug/netstandard2.0/Dagger.Data.pdb

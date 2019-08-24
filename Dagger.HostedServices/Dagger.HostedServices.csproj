@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dagger.Digraph\Dagger.Digraph.csproj" />
+    <ProjectReference Include="..\Dagger.Data\Dagger.Data.csproj" />
+    <ProjectReference Include="..\Dagger.Domain\Dagger.Domain.csproj" />
+    <ProjectReference Include="..\Dagger.Scripting\Dagger.Scripting.csproj" />
+  </ItemGroup>
+
+</Project>
