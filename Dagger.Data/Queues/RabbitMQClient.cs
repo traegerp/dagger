@@ -11,9 +11,9 @@ namespace Dagger.Data.Queues
 
         }
 
-        public async Task Consume<T>(Func<T> onDequeue)
+        public async Task Consume<T>(Func<T, Task> onDequeue)
         {
-
+            
         }
     }
 }

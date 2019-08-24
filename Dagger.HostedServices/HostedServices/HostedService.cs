@@ -45,8 +45,14 @@ namespace Dagger.HostedServices.HostedServices
             {
                 try
                 {
-                    await _manager.Execute();
-                    await Task.Delay(_settings.Polling, stoppingToken);                    
+                    //attempt to process 
+                    var foundItems = await _manager.Execute();
+
+                    if(!foundItems)
+                    {
+                        //wait to consume as the queue was empty
+                        await Task.Delay(_settings.Polling, stoppingToken);                    
+                    }
                 }
                 catch(Exception error)
                 {

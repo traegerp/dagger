@@ -5,6 +5,6 @@ namespace Dagger.Data.Queues
 {
     public interface IConsumer
     {
-        Task Consume<T>(Func<T> onDequeue);     
+        Task Consume<T>(Func<T, Task> onDequeue);     
     }
 }
