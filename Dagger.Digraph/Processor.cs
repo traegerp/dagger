@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Dagger.Digraph.Graphes;
+using Dagger.Digraph.Graphs;
 
 namespace Dagger.Digraph
 {
     public interface IProcessor
     {
-        Task Run(IEnumerable<dynamic> data,  Graphes.Graph graph);
+        Task Run(IEnumerable<dynamic> data,  Graph graph);
     }
 
     /// <summary>
@@ -20,7 +20,7 @@ namespace Dagger.Digraph
 
         }
 
-        public async Task Run(IEnumerable<dynamic> data, Graphes.Graph graph)
+        public async Task Run(IEnumerable<dynamic> data, Graph graph)
         {
             throw new System.NotImplementedException();
         }

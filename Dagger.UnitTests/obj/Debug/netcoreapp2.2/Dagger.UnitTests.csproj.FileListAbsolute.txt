@@ -9,11 +9,9 @@
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Data.dll
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Digraph.dll
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Domain.dll
-/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.dll
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Digraph.pdb
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Data.pdb
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Domain.pdb
-/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.pdb
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.csprojAssemblyReference.cache
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.csproj.CoreCompileInputs.cache
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.AssemblyInfoInputs.cache
@@ -21,3 +19,5 @@
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.csproj.CopyComplete
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.dll
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.pdb
+/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.dll
+/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.pdb

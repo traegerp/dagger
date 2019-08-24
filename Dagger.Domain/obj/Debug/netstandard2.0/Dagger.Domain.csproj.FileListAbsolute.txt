@@ -1,9 +1,9 @@
 /Users/test/Desktop/dagger/Dagger.Domain/bin/Debug/netstandard2.0/Dagger.Domain.deps.json
 /Users/test/Desktop/dagger/Dagger.Domain/bin/Debug/netstandard2.0/Dagger.Domain.dll
 /Users/test/Desktop/dagger/Dagger.Domain/bin/Debug/netstandard2.0/Dagger.Domain.pdb
-/Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.csprojAssemblyReference.cache
 /Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.csproj.CoreCompileInputs.cache
 /Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.AssemblyInfoInputs.cache
 /Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.AssemblyInfo.cs
 /Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.dll
 /Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.pdb
+/Users/test/Desktop/dagger/Dagger.Domain/obj/Debug/netstandard2.0/Dagger.Domain.csprojAssemblyReference.cache

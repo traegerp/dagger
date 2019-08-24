@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Dagger.Data.Queues;
 using Microsoft.Extensions.Logging;
-using Dagger.Digraph.Graphes;
+using Dagger.Digraph.Graphs;
 using Microsoft.Extensions.Caching.Memory;
 using Dagger.Domain.Models;
 

@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/test/Desktop/dagger/Dagger.Digraph/Dagger.Digraph.csproj": {}
+  },
+  "projects": {
+    "/Users/test/Desktop/dagger/Dagger.Data/Dagger.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/test/Desktop/dagger/Dagger.Data/Dagger.Data.csproj",
+        "projectName": "Dagger.Data",
+        "projectPath": "/Users/test/Desktop/dagger/Dagger.Data/Dagger.Data.csproj",
+        "packagesPath": "/Users/test/.nuget/packages/",
+        "outputPath": "/Users/test/Desktop/dagger/Dagger.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj": {
+                "projectPath": "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/test/Desktop/dagger/Dagger.Digraph/Dagger.Digraph.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/test/Desktop/dagger/Dagger.Digraph/Dagger.Digraph.csproj",
+        "projectName": "Dagger.Digraph",
+        "projectPath": "/Users/test/Desktop/dagger/Dagger.Digraph/Dagger.Digraph.csproj",
+        "packagesPath": "/Users/test/.nuget/packages/",
+        "outputPath": "/Users/test/Desktop/dagger/Dagger.Digraph/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/test/Desktop/dagger/Dagger.Data/Dagger.Data.csproj": {
+                "projectPath": "/Users/test/Desktop/dagger/Dagger.Data/Dagger.Data.csproj"
+              },
+              "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj": {
+                "projectPath": "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj"
+              },
+              "/Users/test/Desktop/dagger/Dagger.Scripting/Dagger.Scripting.csproj": {
+                "projectPath": "/Users/test/Desktop/dagger/Dagger.Scripting/Dagger.Scripting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj",
+        "projectName": "Dagger.Domain",
+        "projectPath": "/Users/test/Desktop/dagger/Dagger.Domain/Dagger.Domain.csproj",
+        "packagesPath": "/Users/test/.nuget/packages/",
+        "outputPath": "/Users/test/Desktop/dagger/Dagger.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/test/Desktop/dagger/Dagger.Scripting/Dagger.Scripting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/test/Desktop/dagger/Dagger.Scripting/Dagger.Scripting.csproj",
+        "projectName": "Dagger.Scripting",
+        "projectPath": "/Users/test/Desktop/dagger/Dagger.Scripting/Dagger.Scripting.csproj",
+        "packagesPath": "/Users/test/.nuget/packages/",
+        "outputPath": "/Users/test/Desktop/dagger/Dagger.Scripting/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
