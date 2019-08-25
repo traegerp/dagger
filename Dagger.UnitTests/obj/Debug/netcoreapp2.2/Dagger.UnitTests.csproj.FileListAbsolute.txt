@@ -21,3 +21,5 @@
 /Users/test/Desktop/dagger/Dagger.UnitTests/obj/Debug/netcoreapp2.2/Dagger.UnitTests.pdb
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.dll
 /Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Scripting.pdb
+/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Utils.dll
+/Users/test/Desktop/dagger/Dagger.UnitTests/bin/Debug/netcoreapp2.2/Dagger.Utils.pdb

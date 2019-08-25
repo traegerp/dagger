@@ -111,6 +111,7 @@
           "Dagger.Data": "1.0.0",
           "Dagger.Domain": "1.0.0",
           "Dagger.Scripting": "1.0.0",
+          "Dagger.Utils": "1.0.0",
           "Microsoft.Extensions.Caching.Memory": "2.2.0",
           "Microsoft.Extensions.Logging": "2.2.0"
         },
@@ -135,6 +136,14 @@
         },
         "compile": {
           "Dagger.Scripting.dll": {}
+        }
+      },
+      "Dagger.Utils/1.0.0": {
+        "runtime": {
+          "Dagger.Utils.dll": {}
+        },
+        "compile": {
+          "Dagger.Utils.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3375,6 +3384,11 @@
       "sha512": ""
     },
     "Dagger.Scripting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dagger.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

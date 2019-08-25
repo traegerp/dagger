@@ -14,3 +14,5 @@
 /Users/test/Desktop/dagger/Dagger.Digraph/obj/Debug/netstandard2.0/Dagger.Digraph.pdb
 /Users/test/Desktop/dagger/Dagger.Digraph/bin/Debug/netstandard2.0/Dagger.Scripting.dll
 /Users/test/Desktop/dagger/Dagger.Digraph/bin/Debug/netstandard2.0/Dagger.Scripting.pdb
+/Users/test/Desktop/dagger/Dagger.Digraph/bin/Debug/netstandard2.0/Dagger.Utils.dll
+/Users/test/Desktop/dagger/Dagger.Digraph/bin/Debug/netstandard2.0/Dagger.Utils.pdb

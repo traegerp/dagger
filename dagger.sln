@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dagger.UnitTests", "Dagger.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dagger.Scripting", "Dagger.Scripting\Dagger.Scripting.csproj", "{478DCA69-3025-45E4-B18C-229D9F02C485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dagger.Utils", "Dagger.Utils\Dagger.Utils.csproj", "{2E53E71A-84D6-4802-AE36-43CD5D1E5721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{478DCA69-3025-45E4-B18C-229D9F02C485}.Release|x64.Build.0 = Release|Any CPU
 		{478DCA69-3025-45E4-B18C-229D9F02C485}.Release|x86.ActiveCfg = Release|Any CPU
 		{478DCA69-3025-45E4-B18C-229D9F02C485}.Release|x86.Build.0 = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|x64.Build.0 = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|x64.ActiveCfg = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|x64.Build.0 = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E53E71A-84D6-4802-AE36-43CD5D1E5721}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

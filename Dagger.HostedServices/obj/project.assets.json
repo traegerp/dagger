@@ -4498,6 +4498,7 @@
           "Dagger.Data": "1.0.0",
           "Dagger.Domain": "1.0.0",
           "Dagger.Scripting": "1.0.0",
+          "Dagger.Utils": "1.0.0",
           "Microsoft.Extensions.Caching.Memory": "2.2.0",
           "Microsoft.Extensions.Logging": "2.2.0"
         },
@@ -4526,6 +4527,16 @@
         },
         "runtime": {
           "bin/placeholder/Dagger.Scripting.dll": {}
+        }
+      },
+      "Dagger.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Dagger.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dagger.Utils.dll": {}
         }
       }
     }
@@ -12264,6 +12275,11 @@
       "type": "project",
       "path": "../Dagger.Scripting/Dagger.Scripting.csproj",
       "msbuildProject": "../Dagger.Scripting/Dagger.Scripting.csproj"
+    },
+    "Dagger.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Dagger.Utils/Dagger.Utils.csproj",
+      "msbuildProject": "../Dagger.Utils/Dagger.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {

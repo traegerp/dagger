@@ -4,6 +4,7 @@
     <ProjectReference Include="..\Dagger.Data\Dagger.Data.csproj" />
     <ProjectReference Include="..\Dagger.Domain\Dagger.Domain.csproj" />
     <ProjectReference Include="..\Dagger.Scripting\Dagger.Scripting.csproj" />
+    <ProjectReference Include="..\Dagger.Utils\Dagger.Utils.csproj" />
   </ItemGroup>
 
   <ItemGroup>
